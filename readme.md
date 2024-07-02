@@ -1,0 +1,1 @@
+This is a project for a college assignment designed to enrich the knowledge and experience of collecting, wrangling and extracting value from data.
